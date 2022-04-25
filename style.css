@@ -3,6 +3,7 @@ body {
   Color: light blue;
 }
 
+
 div {
   with: 700px;
   margin: auto;
@@ -15,7 +16,6 @@ div {
   font-size: 22px;
 }
 
-/* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
  font-style: italic;
 }
