@@ -1,11 +1,11 @@
 Background
 body {
-  Color: light blue;
+  Color: #00b3e6;
 }
 
 
 div {
-  with: 700px;
+  width: 700px;
   margin: auto;
   font-family: Helvetica Neue;
   background: white;
